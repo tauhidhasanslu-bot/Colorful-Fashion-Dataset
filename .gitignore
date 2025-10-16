@@ -1,3 +1,6 @@
+# Ignore the data folder
 data/
+
+# Ignore specific notebooks
 1 preprocessing.ipynb
 2 visulize.ipynb
